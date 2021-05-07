@@ -2,7 +2,7 @@
 
 `// That's "Hi" in Swedish` 🇸🇪
 
-I'm a developer who currently works at Sweden's largest property portal, [Hemnet](http://hemnet.se/). I mostly do frontend work, but I'm always willing to learn new languages beacuse I always get new insights while doing so (and it's just fun in general). I currently love working in [ReScript](https://rescript-lang.org/) and [Rust](https://www.rust-lang.org/), some recent example of work in the langauges:
+I'm a developer who currently works at Sweden's largest property portal, [Hemnet](http://hemnet.se/). I mostly do frontend work, but I'm always willing to learn new languages because I always get new insights while doing so (and it's just fun in general). I currently love working in [ReScript](https://rescript-lang.org/) and [Rust](https://www.rust-lang.org/), some recent example of work in the langauges:
 
 #### Advent of Code
 
