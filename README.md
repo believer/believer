@@ -14,7 +14,7 @@ Advent of Code is year puzzle challenge spanning from December 1 to December 25.
 
 CLI tool to create common configurations and project setups
 
-[opendevtools/supreme-rs](https://github.com/opendevtools/supreme-rs) (Rust)
+[opendevtools/supreme](https://github.com/opendevtools/supreme) (Rust)
 
 #### Movies
 
