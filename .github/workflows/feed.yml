@@ -17,4 +17,4 @@ jobs:
           feed-url: https://willcodefor.beer/feed/til_feed.xml
           readme-section: feed
           max: 10
-          template: "* [{{ title }}]({{ link }}) ({{pubDate.slice(0, 10)}})"
+          template: "* [{{ title }}]({{ link }})"
