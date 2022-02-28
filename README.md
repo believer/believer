@@ -7,6 +7,8 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [temporal - the javascript date replacement](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;temporal-the-javascript-date-replacement&#x2F;)
+* [exact time of a git commit](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;exact-time-of-a-git-commit&#x2F;)
 * [html datetime input quirks](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;html-datetime-input-quirks&#x2F;)
 * [typing Swedish letters on a US keyboard](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;typing-swedish-letters-on-a-us-keyboard&#x2F;)
 * [update all git branches and clean up deleted ones](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;update-all-git-branches-and-clean-up-deleted-ones&#x2F;)
@@ -15,8 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [effective meetings](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;effective-meetings&#x2F;)
 * [typescript string manipulation types](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;typescript-string-manipulation-types&#x2F;)
 * [writing good alt texts](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;writing-good-alt-texts&#x2F;)
-* [react import differences](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;react-import-differences&#x2F;)
-* [useful postgres commands](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;useful-postgres-commands&#x2F;)
 <!--END_SECTION:feed-->
 
 ### Selected projects
