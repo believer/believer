@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://willcodefor.beer/feed/til_feed.xml
+          feed-url: https://willcodefor.beer/feed/feed.xml
           readme-section: feed
           max: 10
           template: "* [{{ title }}]({{ link }})"
