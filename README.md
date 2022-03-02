@@ -7,6 +7,8 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [blog post series in eleventy](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;blog-post-series-in-eleventy&#x2F;)
+* [_redirects in Cloudflare Pages](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;_redirects-in-cloudflare-pages&#x2F;)
 * [temporal - the javascript date replacement](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;temporal-the-javascript-date-replacement&#x2F;)
 * [exact time of a git commit](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;exact-time-of-a-git-commit&#x2F;)
 * [html datetime input quirks](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;html-datetime-input-quirks&#x2F;)
@@ -15,8 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [creating luck](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;creating-luck&#x2F;)
 * [using intl for lists](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;using-intl-for-lists&#x2F;)
 * [effective meetings](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;effective-meetings&#x2F;)
-* [typescript string manipulation types](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;typescript-string-manipulation-types&#x2F;)
-* [writing good alt texts](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;writing-good-alt-texts&#x2F;)
 <!--END_SECTION:feed-->
 
 ### Selected projects
