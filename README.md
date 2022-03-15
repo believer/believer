@@ -7,6 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [abbreviations in html](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;abbreviations-in-html&#x2F;)
 * [structure of CSS](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;structure-of-css&#x2F;)
 * [migrating from jest to vitest](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;migrating-from-jest-to-vitest&#x2F;)
 * [blog post series in eleventy](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;blog-post-series-in-eleventy&#x2F;)
@@ -16,7 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [html datetime input quirks](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;html-datetime-input-quirks&#x2F;)
 * [typing Swedish letters on a US keyboard](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;typing-swedish-letters-on-a-us-keyboard&#x2F;)
 * [update all git branches and clean up deleted ones](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;update-all-git-branches-and-clean-up-deleted-ones&#x2F;)
-* [creating luck](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;creating-luck&#x2F;)
 <!--END_SECTION:feed-->
 
 ### Selected projects
