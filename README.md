@@ -2,7 +2,7 @@
 
 `// That's "Hi" in Swedish` 🇸🇪
 
-I mostly do frontend work, but I'm always willing to learn new languages because I always get new insights while doing so (and it's just fun in general). I currently love working in [ReScript](https://rescript-lang.org/) and [Rust](https://www.rust-lang.org/), some recent example of work in the langauges:
+I mostly do frontend work, but I'm always willing to learn new languages because I always get new insights while doing so (and it's just fun in general). I currently love working in [ReScript](https://rescript-lang.org/) and [Rust](https://www.rust-lang.org/).
 
 ### Today I Learned
 
