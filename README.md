@@ -7,6 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [willcodefor.beer is now a Remix app](https:&#x2F;&#x2F;willcodefor.beer&#x2F;&#x2F;posts&#x2F;willcodefor.beer-is-now-a-remix-app)
 * [abbreviations in html](https:&#x2F;&#x2F;willcodefor.beer&#x2F;&#x2F;posts&#x2F;abbreviations-in-html)
 * [structure of CSS](https:&#x2F;&#x2F;willcodefor.beer&#x2F;&#x2F;posts&#x2F;structure-of-css)
 * [migrating from jest to vitest](https:&#x2F;&#x2F;willcodefor.beer&#x2F;&#x2F;posts&#x2F;migrating-from-jest-to-vitest)
@@ -16,7 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [exact time of a git commit](https:&#x2F;&#x2F;willcodefor.beer&#x2F;&#x2F;posts&#x2F;exact-time-of-a-git-commit)
 * [html datetime input quirks](https:&#x2F;&#x2F;willcodefor.beer&#x2F;&#x2F;posts&#x2F;html-datetime-input-quirks)
 * [typing Swedish letters on a US keyboard](https:&#x2F;&#x2F;willcodefor.beer&#x2F;&#x2F;posts&#x2F;typing-swedish-letters-on-a-us-keyboard)
-* [update all git branches and clean up deleted ones](https:&#x2F;&#x2F;willcodefor.beer&#x2F;&#x2F;posts&#x2F;update-all-git-branches-and-clean-up-deleted-ones)
 <!--END_SECTION:feed-->
 
 ### Selected projects
