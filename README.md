@@ -7,16 +7,16 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
-* [deep clone objects using structuredClone](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;deep-clone-objects-using-structuredclone)
-* [download attribute on links](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;download-attribute-on-links)
-* [change creation date of a file](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;change-creation-date-of-a-file)
-* [willcodefor.beer is now a Remix app](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;willcodefor.beer-is-now-a-remix-app)
-* [abbreviations in html](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;abbreviations-in-html)
-* [structure of CSS](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;structure-of-css)
-* [migrating from jest to vitest](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;migrating-from-jest-to-vitest)
-* [blog post series in eleventy](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;blog-post-series-in-eleventy)
-* [_redirects in Cloudflare Pages](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;_redirects-in-cloudflare-pages)
-* [temporal - the javascript date replacement](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;temporal-the-javascript-date-replacement)
+* [deep clone objects using structuredClone](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;deep)
+* [download attribute on links](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;dattr)
+* [change creation date of a file](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;chfiled)
+* [willcodefor.beer is now a Remix app](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;wcfr)
+* [abbreviations in html](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;abbr)
+* [structure of CSS](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;css)
+* [migrating from jest to vitest](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vitest)
+* [blog post series in eleventy](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;11series)
+* [_redirects in Cloudflare Pages](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;redir)
+* [temporal - the javascript date replacement](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;temporal)
 <!--END_SECTION:feed-->
 
 ### Selected projects
