@@ -7,6 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [quit and save in vim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vimq)
 * [tab focus links in Firefox on macOS](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tabff)
 * [deep clone objects using structuredClone](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;deep)
 * [download attribute on links](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;dattr)
@@ -16,7 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [structure of CSS](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;css)
 * [migrating from jest to vitest](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vitest)
 * [blog post series in eleventy](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;11series)
-* [_redirects in Cloudflare Pages](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;redir)
 <!--END_SECTION:feed-->
 
 ### Selected projects
