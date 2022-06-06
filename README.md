@@ -23,7 +23,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 
 #### Advent of Code
 
-Advent of Code is year puzzle challenge spanning from December 1 to December 25.
+Advent of Code is yearly puzzle challenge spanning from December 1 to December 25.
 
 [believer/advent-of-code](https://github.com/believer/advent-of-code) (ReScript / Rust)
 
