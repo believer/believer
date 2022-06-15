@@ -7,6 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [effective note-taking](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;notes)
 * [using generate_series to avoid gaps in data in Postgres](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;pggen)
 * [remove readonly and optional parameters in typescript](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tsrm)
 * [quit and save in vim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vimq)
@@ -16,7 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [change creation date of a file](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;chfiled)
 * [willcodefor.beer is now a Remix app](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;wcfr)
 * [abbreviations in html](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;abbr)
-* [structure of CSS](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;css)
 <!--END_SECTION:feed-->
 
 ### Selected projects
