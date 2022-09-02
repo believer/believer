@@ -7,6 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [override subdependency versions in npm](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;npmover)
 * [automatically creating a remote git branch](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;gitauto)
 * [improving dataview query using regexmatch](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;dataviewio)
 * [dataview examples for Obsidian](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;dataview)
@@ -16,7 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [quit and save in vim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vimq)
 * [tab focus links in Firefox on macOS](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tabff)
 * [deep clone objects using structuredClone](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;deep)
-* [download attribute on links](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;dattr)
 <!--END_SECTION:feed-->
 
 ### Selected projects
