@@ -7,6 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [AppleScript: Spotify current position and track duration](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;asdur)
 * [AppleScript: Spotify now playing](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;asnp)
 * [override subdependency versions in npm](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;npmover)
 * [automatically creating a remote git branch](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;gitauto)
@@ -16,7 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [using generate_series to avoid gaps in data in Postgres](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;pggen)
 * [remove readonly and optional parameters in typescript](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tsrm)
 * [quit and save in vim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vimq)
-* [tab focus links in Firefox on macOS](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tabff)
 <!--END_SECTION:feed-->
 
 ### Selected projects
