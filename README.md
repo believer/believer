@@ -7,6 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [using dataview to collect meeting notes](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;dataviewnotes)
 * [AppleScript: Using JavaScript (JXA)](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;asjxa)
 * [AppleScript: Spotify current position and track duration](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;asdur)
 * [AppleScript: Spotify now playing](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;asnp)
@@ -16,7 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [dataview examples for Obsidian](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;dataview)
 * [effective note-taking](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;notes)
 * [using generate_series to avoid gaps in data in Postgres](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;pggen)
-* [remove readonly and optional parameters in typescript](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tsrm)
 <!--END_SECTION:feed-->
 
 ### Selected projects
