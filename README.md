@@ -7,6 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [suspending vim ](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;susvim)
 * [migrate dotfiles to lua](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;dotlua)
 * [my code editor journey](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;editors)
 * [fuzzy switch git branch](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;gitfs)
@@ -16,7 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [AppleScript: Spotify current position and track duration](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;asdur)
 * [AppleScript: Spotify now playing](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;asnp)
 * [override subdependency versions in npm](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;npmover)
-* [automatically creating a remote git branch](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;gitauto)
 <!--END_SECTION:feed-->
 
 ### Selected projects
