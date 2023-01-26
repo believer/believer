@@ -19,6 +19,8 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [AppleScript: Spotify current position and track duration](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;asdur)
 <!--END_SECTION:feed-->
 
+[All posts](https://willcodefor.beer/posts)
+
 ### Selected projects
 
 #### Advent of Code
