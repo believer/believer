@@ -7,6 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [sort lines in vim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;sortvim)
 * [solving my hydration issues in React 18](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;rhyd)
 * [neovim key map helper in lua](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;luamap)
 * [suspending vim ](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;susvim)
@@ -16,7 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [delete ds_store files](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;dsstore)
 * [using dataview to collect meeting notes](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;dataviewnotes)
 * [AppleScript: Using JavaScript (JXA)](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;asjxa)
-* [AppleScript: Spotify current position and track duration](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;asdur)
 <!--END_SECTION:feed-->
 
 [All posts](https://willcodefor.beer/posts)
