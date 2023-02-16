@@ -7,6 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [rename windows in tmux](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tmuxrn)
 * [organize and document key mappings in neovim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;keyvim)
 * [sort lines in vim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;sortvim)
 * [solving my hydration issues in React 18](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;rhyd)
@@ -16,7 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [my code editor journey](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;editors)
 * [fuzzy switch git branch](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;gitfs)
 * [delete ds_store files](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;dsstore)
-* [using dataview to collect meeting notes](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;dataviewnotes)
 <!--END_SECTION:feed-->
 
 [All posts](https://willcodefor.beer/posts)
