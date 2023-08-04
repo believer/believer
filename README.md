@@ -9,14 +9,14 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 <!--START_SECTION:feed-->
 * [htmx: confirm an action](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;htmxc)
 * [rewrite using the BETH stack](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;beth)
-* [testing ReasonML at Sweden&#39;s largest property portal, Hemnet](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;reshemnet)
-* [how to lint HTML using CSS](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;csslint)
-* [close all open Vim buffers except the current](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vimbuf)
-* [testing React createPortal with Testing Library](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;portal)
-* [ReScript: Creating a React component](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;resreact)
-* [ReScript: Using React components](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;rescomp)
-* [ReScript: Adding a third-party library](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;reslib)
-* [ReScript: Using useState in rescript-react](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;resush)
+* [Vitest hoisted and destructuring](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vitesth)
+* [using intl with hindi and arabic numbers](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;intlu)
+* [organize panes in tmux](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tmuxswp)
+* [rename windows in tmux](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tmuxrn)
+* [organize and document key mappings in neovim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;keyvim)
+* [sort lines in vim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;sortvim)
+* [solving my hydration issues in React 18](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;rhyd)
+* [neovim key map helper in lua](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;luamap)
 <!--END_SECTION:feed-->
 
 [All posts](https://willcodefor.beer/posts)
