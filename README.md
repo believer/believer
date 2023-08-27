@@ -7,16 +7,16 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
-* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
-* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
-* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
-* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
-* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
-* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
-* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
-* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
-* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
-* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
+* [dynamic Island and live activities in react native](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;rnlive)
+* [rewrite using Go](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;go)
+* [automating actions in postgres](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;pgtrig)
+* [htmx: confirm an action](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;htmxc)
+* [rewrite using the BETH stack](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;beth)
+* [Vitest hoisted and destructuring](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vitesth)
+* [using intl with hindi and arabic numbers](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;intlu)
+* [organize panes in tmux](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tmuxswp)
+* [rename windows in tmux](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tmuxrn)
+* [organize and document key mappings in neovim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;keyvim)
 <!--END_SECTION:feed-->
 
 [All posts](https://willcodefor.beer/posts)
