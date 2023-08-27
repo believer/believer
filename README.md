@@ -7,16 +7,16 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
-* [automating actions in postgres](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;pgtrig)
-* [htmx: confirm an action](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;htmxc)
-* [rewrite using the BETH stack](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;beth)
-* [Vitest hoisted and destructuring](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vitesth)
-* [using intl with hindi and arabic numbers](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;intlu)
-* [organize panes in tmux](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tmuxswp)
-* [rename windows in tmux](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tmuxrn)
-* [organize and document key mappings in neovim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;keyvim)
-* [sort lines in vim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;sortvim)
-* [solving my hydration issues in React 18](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;rhyd)
+* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
+* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
+* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
+* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
+* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
+* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
+* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
+* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
+* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
+* [](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;)
 <!--END_SECTION:feed-->
 
 [All posts](https://willcodefor.beer/posts)
