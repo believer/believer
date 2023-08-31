@@ -7,6 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [rotate in CSS with turn](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;turn)
 * [use the ip address instead of localhost](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;localhost)
 * [dynamic Island and live activities in react native](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;rnlive)
 * [rewrite using Go](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;go)
@@ -16,7 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [Vitest hoisted and destructuring](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vitesth)
 * [using intl with hindi and arabic numbers](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;intlu)
 * [organize panes in tmux](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tmuxswp)
-* [rename windows in tmux](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tmuxrn)
 <!--END_SECTION:feed-->
 
 [All posts](https://willcodefor.beer/posts)
