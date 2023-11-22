@@ -7,6 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [displaying a section title with hyperscript](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;hstitle)
 * [using the normal command in vim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vimnorm)
 * [why i love tailwind](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tw)
 * [view transitions using htmx](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;htmxvt)
@@ -16,7 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [rewrite using Go](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;go)
 * [automating actions in postgres](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;pgtrig)
 * [htmx: confirm an action](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;htmxc)
-* [rewrite using the BETH stack](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;beth)
 <!--END_SECTION:feed-->
 
 [All posts](https://willcodefor.beer/posts)
