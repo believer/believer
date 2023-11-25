@@ -7,6 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [nativewind with design tokens and dark mode](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;rntw)
 * [displaying a section title with hyperscript](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;hstitle)
 * [using the normal command in vim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vimnorm)
 * [why i love tailwind](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tw)
@@ -16,7 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [dynamic island and live activities in react native](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;rnlive)
 * [rewrite using Go](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;go)
 * [automating actions in postgres](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;pgtrig)
-* [htmx: confirm an action](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;htmxc)
 <!--END_SECTION:feed-->
 
 [All posts](https://willcodefor.beer/posts)
