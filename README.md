@@ -27,7 +27,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 
 Advent of Code is a yearly puzzle challenge spanning from December 1 to December 25.
 
-[believer/advent-of-code](https://github.com/believer/advent-of-code) (ReScript / Rust)
+[believer/advent-of-code](https://github.com/believer/advent-of-code) (ReScript / Rust / ReasonML / Python / Go / Lua / TypeScript)
 
 #### Supreme
 
