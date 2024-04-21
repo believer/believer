@@ -39,7 +39,7 @@ CLI tool to create common configurations and project setups
 
 This is a personal project where I track the movies I see.
 
-[believer/movie](https://github.com/believer/movie) (Remix)
+[believer/movie](https://github.com/believer/movies-go) (Go/htmx)
 
 Let me know if you find something fun in my repos!
 
