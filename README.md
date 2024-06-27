@@ -7,6 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [Solving PhaseScriptExecution errors in Xcode](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;xcodepse)
 * [pick with keyof typeof in typescript](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tspickkey)
 * [returning values from native modules in swift](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;nativeret)
 * [native module in react native using swift](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;nativeios)
@@ -16,7 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [displaying a section title with hyperscript](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;hstitle)
 * [using the normal command in vim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vimnorm)
 * [why i love tailwind](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tw)
-* [view transitions using htmx](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;htmxvt)
 <!--END_SECTION:feed-->
 
 [All posts](https://willcodefor.beer/posts)
