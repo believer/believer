@@ -8,14 +8,14 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 
 <!--START_SECTION:feed-->
 * [Solving PhaseScriptExecution errors in Xcode](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;xcodepse)
-* [pick with keyof typeof in typescript](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tspickkey)
-* [returning values from native modules in swift](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;nativeret)
+* [Pick with keyof typeof in TypeScript](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tspickkey)
+* [Returning values from Native Modules](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;nativeret)
 * [Native Module in React Native using Swift](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;nativeios)
 * [Just write](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;write)
 * [Maximize tmux pane vertically or horizontally](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tmuxmax)
-* [nativewind with design tokens and dark mode](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;rntw)
+* [Nativewind with design tokens and dark mode](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;rntw)
 * [displaying a section title with hyperscript](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;hstitle)
-* [using the normal command in vim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vimnorm)
+* [Using the normal command in vim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vimnorm)
 * [why i love tailwind](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tw)
 <!--END_SECTION:feed-->
 
