@@ -14,9 +14,9 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [Just write](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;write)
 * [Maximize tmux pane vertically or horizontally](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tmuxmax)
 * [Nativewind with design tokens and dark mode](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;rntw)
-* [displaying a section title with hyperscript](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;hstitle)
+* [Displaying a section title with hyperscript](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;hstitle)
 * [Using the normal command in vim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vimnorm)
-* [why i love tailwind](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tw)
+* [Why I love Tailwind](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tw)
 <!--END_SECTION:feed-->
 
 [All posts](https://willcodefor.beer/posts)
