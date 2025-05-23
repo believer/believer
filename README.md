@@ -7,6 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [Spellcheck multiple languages in Neovim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;spellnvim)
 * [The semantic keyboard input element](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;kbd)
 * [Solving PhaseScriptExecution errors in Xcode](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;xcodepse)
 * [Pick with keyof typeof in TypeScript](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tspickkey)
@@ -16,7 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [Maximize tmux pane vertically or horizontally](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tmuxmax)
 * [Nativewind with design tokens and dark mode](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;rntw)
 * [Displaying a section title with hyperscript](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;hstitle)
-* [Using the normal command in vim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;vimnorm)
 <!--END_SECTION:feed-->
 
 [All posts](https://willcodefor.beer/posts)
