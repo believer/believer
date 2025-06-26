@@ -45,5 +45,5 @@ Let me know if you find something fun in my repos!
 
 ### Reach me 📪 
 
-- **Twitter:** [Twitter](https://twitter.com/rnattochdag)
+- **Bluesky:** [Bluesky](https://bsky.app/profile/did:plc:nr7wbq7tfznyciulquwx3suw)
 - **Website:** https://willcodefor.beer/
