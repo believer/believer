@@ -7,7 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
-* [Biome 2 in Neovim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;biome)
+* [Biome v2 formatting and linting in Neovim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;biome)
 * [Obsidian Bases](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;bases)
 * [Spellcheck multiple languages in Neovim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;spellnvim)
 * [The semantic keyboard input element](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;kbd)
