@@ -7,6 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [You don’t need that dependency](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;deps)
 * [Biome v2 formatting and linting in Neovim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;biome)
 * [Obsidian Bases](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;bases)
 * [Spellcheck multiple languages in Neovim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;spellnvim)
@@ -16,7 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [Returning values from Native Modules](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;nativeret)
 * [Native Module in React Native using Swift](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;nativeios)
 * [Just write](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;write)
-* [Maximize tmux pane vertically or horizontally](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tmuxmax)
 <!--END_SECTION:feed-->
 
 [All posts](https://willcodefor.beer/posts)
