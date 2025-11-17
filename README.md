@@ -1,6 +1,6 @@
 # Hej! :wave:
 
-`// That's "Hi" in Swedish` 🇸🇪
+`// That's "Hi" in Swedish`
 
 I mostly do frontend work, but I'm always willing to learn new languages because I always get new insights while doing so (and it's just fun in general). I currently love working in [Go](https://go.dev/), [htmx](https://htmx.org/), and [Rust](https://www.rust-lang.org/).
 
@@ -43,7 +43,7 @@ This is a personal project where I track the movies I see.
 
 Let me know if you find something fun in my repos!
 
-### Reach me 📪 
+### Reach me
 
 - **Bluesky:** [Bluesky](https://bsky.app/profile/did:plc:nr7wbq7tfznyciulquwx3suw)
 - **Website:** https://willcodefor.beer/
