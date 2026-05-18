@@ -7,6 +7,7 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
+* [Selecting a note-taking app](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;notes-app)
 * [You don’t need that dependency](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;deps)
 * [Biome v2 formatting and linting in Neovim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;biome)
 * [Obsidian Bases](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;bases)
@@ -16,7 +17,6 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 * [Pick with keyof typeof in TypeScript](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tspickkey)
 * [Returning values from Native Modules](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;nativeret)
 * [Native Module in React Native using Swift](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;nativeios)
-* [Just write](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;write)
 <!--END_SECTION:feed-->
 
 [All posts](https://willcodefor.beer/posts)
