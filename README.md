@@ -7,16 +7,16 @@ I mostly do frontend work, but I'm always willing to learn new languages because
 ### Today I Learned
 
 <!--START_SECTION:feed-->
-* [Selecting a note-taking app](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;notes-app)
-* [You don’t need that dependency](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;deps)
-* [Biome v2 formatting and linting in Neovim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;biome)
-* [Obsidian Bases](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;bases)
-* [Spellcheck multiple languages in Neovim](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;spellnvim)
-* [The semantic keyboard input element](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;kbd)
-* [Solving PhaseScriptExecution errors in Xcode](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;xcodepse)
-* [Pick with keyof typeof in TypeScript](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;tspickkey)
-* [Returning values from Native Modules](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;nativeret)
-* [Native Module in React Native using Swift](https:&#x2F;&#x2F;willcodefor.beer&#x2F;posts&#x2F;nativeios)
+* [Selecting a note-taking app](https://willcodefor.beer/posts/notes-app)
+* [You don’t need that dependency](https://willcodefor.beer/posts/deps)
+* [Biome v2 formatting and linting in Neovim](https://willcodefor.beer/posts/biome)
+* [Obsidian Bases](https://willcodefor.beer/posts/bases)
+* [Spellcheck multiple languages in Neovim](https://willcodefor.beer/posts/spellnvim)
+* [The semantic keyboard input element](https://willcodefor.beer/posts/kbd)
+* [Solving PhaseScriptExecution errors in Xcode](https://willcodefor.beer/posts/xcodepse)
+* [Pick with keyof typeof in TypeScript](https://willcodefor.beer/posts/tspickkey)
+* [Returning values from Native Modules](https://willcodefor.beer/posts/nativeret)
+* [Native Module in React Native using Swift](https://willcodefor.beer/posts/nativeios)
 <!--END_SECTION:feed-->
 
 [All posts](https://willcodefor.beer/posts)
